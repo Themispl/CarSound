@@ -1,2 +1,2 @@
 # CarSound
-click to the buttons to listen the Car Sound Audio
+click on the buttons below to listen to for audio clip Car Sound.
